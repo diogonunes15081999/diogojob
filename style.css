@@ -1,0 +1,111 @@
+body{
+    background-image: url("img/bg1.jpg");
+}
+.bg-dark {
+    background-color: #1d1d1d !important;
+}
+.titulo {
+    color:white;
+    text-align:center;
+    font-weight:bold;
+    font-size:30%;
+}
+.card{
+    text-align:center;
+    background-color: black;
+    opacity: 0.9;
+}
+
+.card-header {
+    background-color: #0064fb !important;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 1px black;
+}
+
+.text {
+    text-align:left;
+    color:white;
+    }
+.imgnav {
+    width:30px;
+    height:30px;
+    position:absolute;
+    right:165px;
+    top:15px;
+}
+.login{
+    position: absolute;
+    top: 8px;
+    right: 29px;
+    font-size: 18px;
+}
+
+.navbar {
+    opacity: 0.9;
+}
+
+.bg-dark {
+    background-color: #1d1d1d !important;
+}
+
+.btn-primary{
+    color: #fff;
+    background-color: #0064fb;
+    border-color: #0064fb;
+}
+.btn-secondary{
+    color: #fff;
+    background-color: #0064fb;
+    border-color: #0064fb;
+}                                
+.container{
+    margin-top:0.5%
+}
+.text{
+text-align:center;
+font-size: 20%;
+}
+
+.card1{
+    position: absolute;
+    left: 40%;
+    top: 25%;
+    width: 45%;
+    height: 48%;
+
+
+}
+
+.card2{
+    position: absolute;
+    left: -30%;
+    top: 0%;
+    width: 100%;
+    height: 55%;
+}
+
+.card3{
+    position: absolute;
+    top:150%;
+}
+
+.card4{
+    position: absolute;
+    left: 30%;
+    width: 100%;
+    top: 0%;
+}
+
+.card5{
+    position: absolute;
+    top: -110%;
+    left: 30%;
+    width: 97%;
+
+}
+
+.card6{
+    position: absolute;
+    top:124%;
+}
